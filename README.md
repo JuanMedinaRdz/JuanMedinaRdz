@@ -1,60 +1,44 @@
+<h1 align="center"><b>Hi, I'm Juan Carlos Medina</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center"><b>Hi , I'm Juan Carlos Medina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<!-- Typing SVG -->
 <p align="center">
-<a href="[https://git.io/typing-svg](https://github.com/JuanMedinaRdz)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71DD1&random=false&width=435&lines=Computer+Systems+Engineer" alt="Typing SVG" /></a>
+    <a href="[https://git.io/typing-svg](https://github.com/JuanMedinaRdz)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71DD1&random=false&width=435&lines=Computer+Systems+Engineer" alt="Typing SVG" /></a>
 </p>
 
+<!-- Introduction -->
 <div align="center">
-
-You have discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-
+    You have discovered my GitHub profile. <br>
+    Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
 </div>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<!-- GitHub Stats and Experience -->
+<div>
+    <h3>My GitHub Stats</h3>
+    <p align="left">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JuanMedinaRdz&show_icons=true&theme=gruvbox&hide_border=true"/>
+      <img width="50%" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMedinaRdz&theme=gruvbox&hide_border=true"/>
+    </p>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<h3>My Experience</h3>
-<!-- Incluye Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-AOtB3JQ/v3o7Y3MmODXW/m5zZhcSRiZIdC5rFr+T3ueKKGu7pRVa4eOTbT4vL5r0xlrJxm+v7Z1sO8J/jgHJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<table>
-  <tr>
-    <th>Technology</th>
-    <th>Experience</th>
-  </tr>
-  <tr>
-    <td><i class="fab fa-flutter"></i> Flutter</td>
-    <td>⭐️⭐️⭐️</td>
-  </tr>
-  <tr>
-    <td><i class="fab fa-angular"></i> Angular</td>
-    <td>⭐️⭐️⭐️</td>
-  </tr>
-  <tr>
-    <td><i class="fab fa-js"></i> JavaScript</td>
-    <td>⭐️⭐️</td>
-  </tr>
-  <tr>
-    <td><i class="fab fa-react"></i> TypeScript</td>
-    <td>⭐️⭐️</td>
-  </tr>
-</table>
 <br>
 
-<!--
-**JuanMedinaRdz/JuanMedinaRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
