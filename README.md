@@ -29,16 +29,12 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,dart&theme=light)](https://skillicons.dev)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular,nodejs,ts,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
 <br>
