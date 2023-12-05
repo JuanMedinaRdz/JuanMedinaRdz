@@ -16,7 +16,7 @@
     <h3>My GitHub Stats</h3>
     <p align="left">
       <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JuanMedinaRdz&show_icons=true&theme=gruvbox&hide_border=true"/>
-      <img width="50%" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMedinaRdz&theme=gruvbox&hide_border=true"/>
+      <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMedinaRdz&theme=gruvbox&hide_border=true"/>
     </p>
 </div>
 
