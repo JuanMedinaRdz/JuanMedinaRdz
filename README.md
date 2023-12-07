@@ -5,6 +5,12 @@
     <a href="[https://git.io/typing-svg](https://github.com/JuanMedinaRdz)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71DD1&random=false&width=435&lines=Computer+Systems+Engineer" alt="Typing SVG" /></a>
 </p>
 
+<div>
+    <p align="center">
+        <img width="99.5%" src="Juan_Banner.jpg" alt="GitHub Stats"/>
+    </p>
+</div>
+
 <!-- Introduction -->
 <div align="center">
     You have discovered my GitHub profile. <br>
