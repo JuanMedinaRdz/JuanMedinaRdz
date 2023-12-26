@@ -58,3 +58,12 @@
 </div>                                                                                  
 </td>
 <td width="50%">
+<h3 align="center">Desarrollo de Aplicación web Angular Loggin con autenticación</h3>
+<div align="center">
+<a href="" target="_blank"><img src="tests.jpg" width="800" alt="Participación en proyecto AppJoven Saltillo"></a>
+<p>
+<p> Loggin con autenticación de página realizada para tests de personalidad. Back End y Front End </p>
+</div>                                                                                  
+</td>
+
+
