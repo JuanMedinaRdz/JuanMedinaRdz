@@ -44,3 +44,6 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,angular,nodejs,ts,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
 <br>
+
+- **Proyectos trabajados**:
+
