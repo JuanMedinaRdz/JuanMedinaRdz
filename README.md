@@ -47,3 +47,14 @@
 
 - **Proyectos trabajados**:
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Participación de proyecto AppJoven</h3>
+<div align="center">
+<a href="" target="_blank"><img src="lineasAyuda.jpg" width="400" alt="Participación en proyecto AppJoven Saltillo"></a>
+<p>
+<p>Realización de pantallas para lineas de ayuda en la aplicación AppJoven Saltillo para dispositivos móviles. Desarrollada en flutter.</p>
+</div>                                                                                  
+</td>
+<td width="50%">
