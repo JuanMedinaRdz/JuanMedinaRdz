@@ -58,6 +58,14 @@
 </div>                                                                                  
 </td>
 <td width="50%">
+<h3 align="center">Aplicación personal de negocio de comida</h3>
+<div align="center">
+<a href="" target="_blank"><img src="graficas.jpg" width="400" alt="Elaboración de gráficas"></a>
+<p>
+<p>Elaboración de proyecto con gráficas que muestran ganancia semanal de venta de negocio. Además se puede ingresar ordenes y pedidos así como costes de inventario para el calculo automatico de las ganancias. Desarrollada en flutter.</p>
+</div>                                                                                  
+</td>
+<td width="50%">
 <h3 align="center">Desarrollo de Aplicación web Angular Loggin con autenticación</h3>
 <div align="center">
 <a href="" target="_blank"><img src="tests.jpg" width="800" alt="Participación en proyecto AppJoven Saltillo"></a>
